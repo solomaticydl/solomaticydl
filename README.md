@@ -1,6 +1,6 @@
 # Tony Yang
 
-[![Github Badge](https://img.shields.io/badge/-Repositories-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/tonyyang924?tab=repositories)](https://github.com/tonyyang924?tab=repositories)
+[![Github Badge](https://img.shields.io/badge/-Repositories-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/solomaticydl?tab=repositories)](https://github.com/solomaticydl?tab=repositories)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tonyyang924)](https://www.linkedin.com/in/tonyyang924)
 
 ### Hi there 👋
@@ -8,7 +8,7 @@
 I'm currently working on IQIYI as an Android developer, passionate in coding and keep learning how to program.
 
 <!--
-**tonyyang924/tonyyang924** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**solomaticydl/solomaticydl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
