@@ -5,8 +5,6 @@
 
 ### Hi there 👋
 
-I'm currently working on IQIYI as an Android developer, passionate in coding and keep learning how to program.
-
 <!--
 **solomaticydl/solomaticydl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
